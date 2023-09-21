@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project includes several branches for different learning topics
+
+### The CustomHook project --> checkout "learn-customhook" branch
+
 ## Available Scripts
 
 In the project directory, you can run:
