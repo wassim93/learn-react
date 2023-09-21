@@ -6,6 +6,8 @@ This project includes several branches for different learning topics
 
 ### The CustomHook project --> checkout "learn-customhook" branch
 
+### The React Animations project --> checkout "learn-react-animations" branch
+
 ## Available Scripts
 
 In the project directory, you can run:
