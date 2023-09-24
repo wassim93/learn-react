@@ -1,12 +1,11 @@
+# This project includes several branches for different learning topics
+
+1 - The CustomHook project --> checkout "learn-customhook" branch
+2 - The React Animations project --> checkout "learn-react-animations" branch
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-This project includes several branches for different learning topics
-
-### The CustomHook project --> checkout "learn-customhook" branch
-
-### The React Animations project --> checkout "learn-react-animations" branch
 
 ## Available Scripts
 
