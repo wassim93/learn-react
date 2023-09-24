@@ -1,9 +1,17 @@
-import FetchDataMainComponent from "./components/fetch-data/FetchDataMainComponent";
+import { ColorTransition } from "./components/ColorTransition";
+import { FadeIn } from "./components/FadeIn";
+import { SlideIn } from "./components/SlideIn";
+import { SequenceOfAnimations } from "./components/SequenceOfAnimations";
+import { FlipCard } from "./components/FlipCard";
 
 function App() {
   return (
     <div>
-      <FetchDataMainComponent />
+      <FadeIn />
+      <SlideIn />
+      <ColorTransition />
+      <SequenceOfAnimations />
+      <FlipCard />
     </div>
   );
 }
